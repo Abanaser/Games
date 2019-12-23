@@ -1,5 +1,5 @@
 REPO FOR FUN! HYPE!!
-Everythin in here is about games. 
+Everything in here is about games. 
 
 1 - Guessing Game:
       It's a game between you and the computer where you have to choose a number from 1-100 and the computer will try to guess that number,       and then it's your turn to guess the computer's number. Whoever do it in least steps win! Good luck. 
